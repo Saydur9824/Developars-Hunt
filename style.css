@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+/* banner */
+.banner{
+    background: url("img/1.jpg");
+    background-repeatt;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+}
+.banner_area{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+       
+}
+.banner_p{
+color: #ffffff;
+}
+.banner_h1{
+    color: #ffffff; 
+}
+.banner_h2{
+    color: #ffffff; 
+}
+.h25{
+    height: 25px;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 87%;
+    height: 74%;
+    margin-left: 31px;
+    margin-right: 2px;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -24px;
+    margin-left: -51px;
+}
+
+
+.row .col-8 {
+
+    text-align: center;
+    margin-top: 113px;
+}
+.header_two{
+    background: url("img/11.jpg");
+
+    height: 50vh;
+    position: relative;
+    background-size: cover;
+}
+
+.banner_inner_two{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner_inner_two h1{
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    font-weight: 70;
+    margin-bottom: 0.5rem;
+    
+}
+.banner_inner_two p{
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    font-weight: 60;
+    margin-bottom: 30px;
+    
+}
+.btnp{
+    text-align: center;
+}
+.banner_content_two{
+    margin-top: -163px;
+}
+.col-12{
+    display: flex;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 45px;
+    padding: 3px;
+    margin: 10px;
+}
+.map .p{
+
+  margin-top: 11px;
+  margin-bottom: 1rem;
+ font-size: 26px;
+ padding-top: -18px;
+}
+.map img {
+    vertical-align: middle;
+    border-style: none;
+    width: 136%;
+    height: 94%;
+    margin-left: -174px;
+    margin-right: -2px;
+}
+.map .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -24px;
+    margin-left: -29px;
+    padding-left: 110px;
+}
+.fa .dp{
+    background: #fff;
+}
+.map p{
+    
+        margin-top: 0;
+        margin-bottom: 1rem;
+        padding-top: 22px;
+    
+}
